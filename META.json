@@ -1,0 +1,67 @@
+{
+  "category": "webmail",
+  "created_date": "2025-09-15T22:48:57.762491",
+  "default_ports": [
+    80,
+    443,
+    2048
+  ],
+  "dependencies": [
+    "php",
+    "php-pear",
+    "php-mysql"
+  ],
+  "description": "Horde is a free and open-source Groupware. Web application framework with webmail and groupware",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/webmail/horde",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/webmail/horde",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.762527",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "horde",
+  "repository_url": "https://github.com/howtomgr/horde",
+  "spec_version": "2.0",
+  "subcategory": "webmail",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "webmail",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection",
+    "communication"
+  ],
+  "title": "Horde Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/webmail/horde"
+}
